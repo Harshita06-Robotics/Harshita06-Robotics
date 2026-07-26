@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, Harshita here !!
 
-<!--
-**Harshita06-Robotics/Harshita06-Robotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics & AI Undergraduate | Computer Vision | Embedded Systems | Autonomous Robots
 
-Here are some ideas to get you started:
+I build robotic systems that combine perception, control, embedded systems, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Working On:
+Autonomous rover development using ROS 2 and Gazebo
+Robot simulation and navigation
+Embedded systems and motor control
+Computer vision for robotic perception
+
+Technical Skills
+Robotics & AI : ROS 2 • Gazebo • Computer Vision • YOLO • SAM2 • OpenCV • MediaPipe
+Embedded Systems : Arduino • ESP32 • STM32 • CAN • UART • I2C • SPI • BLE • WiFi
+Control & Algorithms : PID Control • Q-Learning • Reinforcement Learning • Kinematics • Odometry • Sensor Fusion
+Programming : Python • C/C++ • SQL
+
+Currently Learning:
+Autonomous Navigation : SLAM & Nav2
+ROS2 system architecture
+Tools : RViz & Gazebo
+Advanced robot perception
