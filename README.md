@@ -1,6 +1,6 @@
 # Hi, Harshita here
 
- Robotics & AI Undergraduate | Computer Vision | Embedded Systems | Autonomous Robots
+ Robotics & AI | Computer Vision | Embedded Systems | Autonomous Robots
 
 I build robotic systems that combine **perception, control, embedded systems, and artificial intelligence**.
 
