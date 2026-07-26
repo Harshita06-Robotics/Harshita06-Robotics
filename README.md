@@ -1,17 +1,17 @@
-# Hi, I'm Harshita Puranik 👋
+# Hi, Harshita here
 
-🤖 Robotics & AI Undergraduate | Computer Vision | Embedded Systems | Autonomous Robots
+ Robotics & AI Undergraduate | Computer Vision | Embedded Systems | Autonomous Robots
 
 I build robotic systems that combine **perception, control, embedded systems, and artificial intelligence**.
 
-## 🔭 Currently Working On
+## Currently Working On
 
 * Autonomous rover development using ROS 2 and Gazebo
 * Robot simulation and navigation
 * Embedded systems and motor control
 * Computer vision for robotic perception
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Robotics & AI
 
@@ -29,13 +29,13 @@ PID Control • Q-Learning • Reinforcement Learning • Kinematics • Odometr
 
 Python • C/C++ • SQL
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Autonomous Navigation : SLAM • Nav2
 * ROS 2 system architecture
 * Advanced robot perception
 * Tools : RViz • Movelt2 • Gazebo
 
-## 📫 Connect with me
+## Connect with me
 
 * Email: hershita.tech@gmail.com
